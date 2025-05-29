@@ -1,7 +1,6 @@
 library(tidyverse)
 library(fetchagol)
 library(NPSdataverse)
-pak::pak("nationalparkservice/mojn-stlk-rpackage@irene-dev2")
 pak::pak("nationalparkservice/mojn-stlk-rpackage@master")
 library(streamsandlakes)
 
